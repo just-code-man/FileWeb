@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/FileWeb/.vs/FileWeb/v17
+/FileWeb/FileWeb.App/bin/Debug/net6.0/file/test
+/FileWeb/FileWeb.App/bin/Debug/net6.0/logs
+/FileWeb/FileWeb.App/bin/Debug/net6.0
+/FileWeb/FileWeb.App/obj
